@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+
+/*.headerHome{
+  min-height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(./assets/image/back-ground.jpg) center/cover no-repeat fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+}*/

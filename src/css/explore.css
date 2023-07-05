@@ -1,0 +1,24 @@
+.explore{
+    width: 400px;
+    height: 250px;
+  /*  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../assets/image/space-lander.png) center/cover no-repeat fixed;*/
+    border-radius: 15px;
+    border-radius: 10px;
+    background-color: rgba(66, 65, 65, 0.223);
+    box-shadow: 0 5px 10px #9a9898;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: whitesmoke;
+}
+
+.space_lander{
+    width: 50%;
+
+}
+
+.p_explore{
+    text-align: center;
+    width: 1px;
+    font-size: 15px;
+}
